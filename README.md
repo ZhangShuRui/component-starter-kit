@@ -15,7 +15,7 @@ pnpm install  && pnpm build
 ```
 pnpm styleguide // 开发
 
-styleguide:build // 生产
+pnpm styleguide:build // 生产
 ```
 生成组件库文档，包含组件的使用说明、API文档、示例代码。
 
