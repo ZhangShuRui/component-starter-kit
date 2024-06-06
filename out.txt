@@ -1,0 +1,138 @@
+/Users/cn-alanzhangod/Documents/code-me/component-starter-kit
+├── LICENSE
+├── README.md
+├── fileTransformer.js
+├── gulpfile.js
+├── package.json
+├── pnpm-lock.yaml
+├── scripts
+|  ├── babel-transform-less-to-css.js
+|  └── postcss-disable-css-vars.js
+├── src
+|  ├── assets
+|  |  └── images
+|  |     └── logo
+|  |        ├── logo-image.png
+|  |        └── logo-title.png
+|  ├── components
+|  |  └── mycomponent
+|  |     ├── MMycomponent.md
+|  |     ├── MMycomponent.tsx
+|  |     ├── index.ts
+|  |     └── mycomponent.less
+|  ├── global
+|  |  ├── demos
+|  |  |  └── dark-mode
+|  |  |     └── demo1.tsx
+|  |  ├── global.less
+|  |  ├── index.ts
+|  |  ├── theme-dark.less
+|  |  └── theme-default.less
+|  ├── hooks
+|  |  ├── index.tsx
+|  |  └── useFieldNames.tsx
+|  ├── index.ts
+|  ├── locales
+|  |  ├── ar-SA.ts
+|  |  ├── base.ts
+|  |  ├── da-DK.ts
+|  |  ├── de-DE.ts
+|  |  ├── en-US.ts
+|  |  ├── es-ES.ts
+|  |  ├── fa-IR.ts
+|  |  ├── fr-FR.ts
+|  |  ├── hu-HU.ts
+|  |  ├── id-ID.ts
+|  |  ├── in-ID.ts
+|  |  ├── it-IT.ts
+|  |  ├── ja-JP.ts
+|  |  ├── kk-KZ.ts
+|  |  ├── ko-KR.ts
+|  |  ├── ms-MY.ts
+|  |  ├── nb-NO.ts
+|  |  ├── nl-NL.ts
+|  |  ├── pt-BR.ts
+|  |  ├── ru-RU.ts
+|  |  ├── th-TH.ts
+|  |  ├── tr-TR.ts
+|  |  ├── vi-VN.ts
+|  |  ├── zh-CN.test.ts
+|  |  ├── zh-CN.ts
+|  |  ├── zh-HK.ts
+|  |  └── zh-TW.ts
+|  ├── typings
+|  |  └── global
+|  |     └── index.d.ts
+|  └── utils
+|     ├── BrowserMessenger.ts
+|     ├── attach-properties-to-component.ts
+|     ├── bound.ts
+|     ├── bridge.ts
+|     ├── can-use-dom.ts
+|     ├── convert-px.ts
+|     ├── create-icon-component.tsx
+|     ├── demos
+|     |  └── reduce-motion
+|     |     ├── demo1.tsx
+|     |     └── demo2.tsx
+|     ├── dev-log.ts
+|     ├── generate-int-array.ts
+|     ├── get-container.ts
+|     ├── get-scroll-parent.ts
+|     ├── is-dev.ts
+|     ├── is-node-with-content.ts
+|     ├── matrix.ts
+|     ├── measure-css-length.ts
+|     ├── merge-locale.ts
+|     ├── native-props.ts
+|     ├── nearest.ts
+|     ├── noop.ts
+|     ├── reduce-and-restore-motion.ts
+|     ├── render-imperatively.tsx
+|     ├── render-to-body.ts
+|     ├── render-to-container.ts
+|     ├── render.ts
+|     ├── replace-message.ts
+|     ├── rubberband.ts
+|     ├── should-render.tsx
+|     ├── shuffle.ts
+|     ├── sleep.ts
+|     ├── supports-passive.ts
+|     ├── tests
+|     |  ├── undefined-fallback.test.ts
+|     |  ├── use-lock-scroll.test.tsx
+|     |  └── use-props-value.test.ts
+|     ├── to-css-length.ts
+|     ├── traverse-react-node.tsx
+|     ├── tree.ts
+|     ├── types
+|     |  └── index.d.ts
+|     ├── undefined-fallback.ts
+|     ├── use-drag-and-pinch.ts
+|     ├── use-initialized.ts
+|     ├── use-inner-visible.ts
+|     ├── use-isomorphic-update-layout-effect.tsx
+|     ├── use-lock-scroll.ts
+|     ├── use-mutation-effect.tsx
+|     ├── use-props-value.ts
+|     ├── use-ref-state.tsx
+|     ├── use-resize-effect.tsx
+|     ├── use-tab-list-scroll.ts
+|     ├── use-touch.ts
+|     ├── validate.ts
+|     ├── with-cache.ts
+|     ├── with-default-props.tsx
+|     ├── with-func-props.ts
+|     └── with-stop-propagation.tsx
+├── styleguide
+|  ├── build
+|  |  ├── bundle.dce91694.js
+|  |  └── bundle.dce91694.js.LICENSE.txt
+|  └── index.html
+├── styleguide.config.js
+├── tsconfig.json
+└── umd.html
+
+directory: 5370 file: 39770
+
+ignored: directory (233)
